@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Loader from "./Loader";
 import MenuItem from "./MenuItem";
 import useAxiosFetch from "../hooks/useAxiosFetch";
-const API_URL = "http://localhost:3500";
+const API_URL = "https://flavourfoods.onrender.com";
 
 function Menu() {
   const [foods, setFoods] = useState([]);
