@@ -1,6 +1,6 @@
 import { useReducer } from "react";
 import axios from "axios";
-const API_URL = "http://localhost:3500/api/v1/booking";
+const API_URL = "https://flavourfoods.onrender.com/api/v1/booking";
 const initialValue = {
   firstName: "",
   lastName: "",
