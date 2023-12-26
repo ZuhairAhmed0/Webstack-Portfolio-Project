@@ -21,6 +21,7 @@ app.use(express.json());
 // app.use(express.urlencoded({ extended: true }));
 
 // routes
+app.use("/", foodsRoutes);
 app.use("/api/v1/foods", foodsRoutes);
 app.use("/api/v1/booking", bookingRoutes);
 
