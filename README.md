@@ -1,3 +1,3 @@
 # flavour-food
 
-[Live demo](https://zuhairahmed0.github.io/flavour-food/)
+[Live demo](https://flavour-foods.onrender.com/)
